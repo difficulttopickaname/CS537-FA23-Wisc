@@ -1,6 +1,6 @@
 # CS537-FA23-Wisc
 ## Basic Information
-Computer Science 537 (CS537): Operating System. Fall 2023, UW-Madison. 
+Computer Science 537 (CS537): Operating System. Fall 2023, UW-Madison.  
 Lecturer: Louis Oliphant (**[LinkeIn](https://www.linkedin.com/in/louis-oliphant)**, [UW-Madison CS homepage](https://pages.cs.wisc.edu/~oliphant/))   
 
 ## Project Information and Suggestions
