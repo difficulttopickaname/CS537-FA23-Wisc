@@ -2,6 +2,7 @@
 ## Basic Information
 Computer Science 537 (CS537): Operating System. Fall 2023, UW-Madison.  
 Lecturer: Louis Oliphant (**[LinkeIn](https://www.linkedin.com/in/louis-oliphant)**, [UW-Madison CS homepage](https://pages.cs.wisc.edu/~oliphant/))   
+Be EXTRA CAREFUL if you try to take Louis' class. No curve will be given.  
 
 ## Project Information and Suggestions
 1. Anticipate 20-40h on each project starting from P2 (our semester have 7 projects, one every two weeks).  
